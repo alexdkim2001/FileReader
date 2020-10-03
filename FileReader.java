@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Map.Entry;
 import java.io.*;
 
-public class Project1 {
+public class FileReader {
 
 	public static void main(String[] args) throws Exception {
 
